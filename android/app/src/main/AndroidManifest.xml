@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="life.imthere.imthere_app">
    <application
-        android:label="imthere_app"
+        android:label="I'm There"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
